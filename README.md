@@ -1,0 +1,2 @@
+# SmartomTradeAssistant
+Smartom Trade Assistant
