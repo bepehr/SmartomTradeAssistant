@@ -1,4 +1,6 @@
-# Smartom Trade Assistant version 1.15
+# Smartom Trade Assistant Version 1.15
+
+<a href="https://github.com/bepehr/SmartomTradeAssistant/blob/main/README_FA.md"><strong>فارسی</strong></a>
 
 Money management and calculating the right lot size is crucial in forex trading. With Smartom Trade Assistant you can easily open and manage various orders with just a few clicks, simply and professionally.
 
