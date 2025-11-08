@@ -1,4 +1,4 @@
-# Smartom Trade Assistant Version 1.15
+# Smartom Trade Assistant Version 1.16
 
 <a href="https://github.com/bepehr/SmartomTradeAssistant/blob/main/README_FA.md"><strong>فارسی</strong></a>
 
